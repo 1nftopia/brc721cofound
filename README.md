@@ -1,7 +1,7 @@
 # BRC721Cofound
 |  -   | -  |
 |  ----  | ----  |
-| Name  | BRC721Auto |
+| Name  | BRC721Cofound |
 | Description  | A protocol enabling all Bitcoin users to collaboratively create a pixelated image on a public canvas, where each contribution is recorded on Bitcoin and represented by an inscription of the canvas's latest state. |
 | Discussion-to | [https://bitcointalk.org/index.php?topic=5462453] |
 | Category | Ordinals |
